@@ -2,6 +2,7 @@
 Generate tweets using an n-gram lanugage model. The notebook allows you to select which twitter users to pull tweets from for the model.
 
 # Examples (Using "Weird Twitter" Accounts)
+```
 +------------------------------------------------------------+
 | +------+                                                   |
 | |  /\  | N-Gram Bot @ngrambot - 12h                        |
@@ -65,3 +66,4 @@ Generate tweets using an n-gram lanugage model. The notebook allows you to selec
 |                                                            |
 | <3 31.4k                                                   |
 +------------------------------------------------------------+
+```
