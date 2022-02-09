@@ -1,68 +1,66 @@
 # N-gram Tweet Generator
 Generate tweets using an n-gram lanugage model. The notebook allows you to select which twitter users to pull tweets from for the model.
 
-# 3-gram Examples (Using "Weird Twitter" Accounts)
+# 3-gram Examples
 ```
 +------------------------------------------------------------+
-| +------+                                                   |
-| |  /\  | N-Gram Bot @ngrambot - 12h                        |
-| | [OO] |                                                   |
-| |  []  |                                                   |
-| +------+                                                   |
+| +-------+                                                  |
+| |  ! !  | N-Gram Bot @ngrambot - 12h                       |
+| | [O_O] |                                                  |
+| |  | |  |                                                  |
+| +-------+                                                  |
 |                                                            |
-| this holiday season please remember to be as dumb as plato |
-| .                                                          |
-|                                                            |
-| <3 31.4k                                                   |
-+------------------------------------------------------------+
-+------------------------------------------------------------+
-| +------+                                                   |
-| |  /\  | N-Gram Bot @ngrambot - 12h                        |
-| | [OO] |                                                   |
-| |  []  |                                                   |
-| +------+                                                   |
-|                                                            |
-| if you want to put a knife in my computer to be a girl     |
-| online these days me : computor . . .                      |
+| i want to grind out digital pennies                        |
 |                                                            |
 | <3 31.4k                                                   |
 +------------------------------------------------------------+
 +------------------------------------------------------------+
-| +------+                                                   |
-| |  /\  | N-Gram Bot @ngrambot - 12h                        |
-| | [OO] |                                                   |
-| |  []  |                                                   |
-| +------+                                                   |
+| +-------+                                                  |
+| |  ! !  | N-Gram Bot @ngrambot - 12h                       |
+| | [O_O] |                                                  |
+| |  | |  |                                                  |
+| +-------+                                                  |
 |                                                            |
-| ( taking bong hit ) okay folks here we go - you just know  |
-| this person goes crazy at league of legends                |
-|                                                            |
-| <3 31.4k                                                   |
-+------------------------------------------------------------+
-+------------------------------------------------------------+
-| +------+                                                   |
-| |  /\  | N-Gram Bot @ngrambot - 12h                        |
-| | [OO] |                                                   |
-| |  []  |                                                   |
-| +------+                                                   |
-|                                                            |
-| ( jar jar binks getting the word “portcullis” exists and   |
-| then seeing a lot like christmas ! 🎵 santa who lost his    |
-| holiday cheer because of a disney channel original movie   |
-| voice ] wtf . . .                                          |
+| we're awfully fond of wandering inside and stuff           |
 |                                                            |
 | <3 31.4k                                                   |
 +------------------------------------------------------------+
 +------------------------------------------------------------+
-| +------+                                                   |
-| |  /\  | N-Gram Bot @ngrambot - 12h                        |
-| | [OO] |                                                   |
-| |  []  |                                                   |
-| +------+                                                   |
+| +-------+                                                  |
+| |  ! !  | N-Gram Bot @ngrambot - 12h                       |
+| | [O_O] |                                                  |
+| |  | |  |                                                  |
+| +-------+                                                  |
 |                                                            |
-| if i had a bootleg laptop charger that used to eat a big   |
-| translucent robot bird suddenly show up at the bottom 0 .  |
-| 1 % of teens generation who think twerking is foolish      |
+| this is what oligarchy is all light and, yes. it feels so  |
+| amazing to share a live drawing event at the final         |
+| guardrail of democracy here in shreveport for the launch:  |
+|                                                            |
+| <3 31.4k                                                   |
++------------------------------------------------------------+
++------------------------------------------------------------+
+| +-------+                                                  |
+| |  ! !  | N-Gram Bot @ngrambot - 12h                       |
+| | [O_O] |                                                  |
+| |  | |  |                                                  |
+| +-------+                                                  |
+|                                                            |
+| critical support for parents of students being themselves  |
+|                                                            |
+| <3 31.4k                                                   |
++------------------------------------------------------------+
++------------------------------------------------------------+
+| +-------+                                                  |
+| |  ! !  | N-Gram Bot @ngrambot - 12h                       |
+| | [O_O] |                                                  |
+| |  | |  |                                                  |
+| +-------+                                                  |
+|                                                            |
+| the incredible voter turn out so long to get the work for  |
+| nasa administrator – who didn't read this! i just went to  |
+| bed early tonight. in the 1970s; allentown, pennsylvania;  |
+| february 1 for every tweet. be ready to laugh and learn    |
+| more about the band pulp by fellow cat account.            |
 |                                                            |
 | <3 31.4k                                                   |
 +------------------------------------------------------------+
