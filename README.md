@@ -1,5 +1,5 @@
 # N-gram Tweet Generator
-Generate tweets using an n-gram lanugage model. The notebook allows you to select which twitter users to pull tweets from for the model.
+Generate tweets using an n-gram lanugage model.
 
 # 3-gram Examples
 ```
